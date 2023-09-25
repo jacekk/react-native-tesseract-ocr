@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/jonathanpalma/react-native-tesseract-ocr/compare/v2.1.0...v2.1.1) (2023-09-25)
+
+
+### Bug Fixes
+
+* possible fix for "Could not create directory" error; ([0589eeb](https://github.com/jonathanpalma/react-native-tesseract-ocr/commit/0589eeb29e6fda93b51816ef01271744dbf0207c))
+
 ## 2.1.0 (2023-09-25)
 
 
